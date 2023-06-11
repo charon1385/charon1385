@@ -28,7 +28,7 @@
 ### 👨‍💻: About Me :
 
 
-- 👋 Hi, I’m AmirHossein Ghanmi (C#4120n) 
+- 👋 Hi, I’m AmirHossein Ghanami (C#4120n) 
 - 👀 I’m interested in AI, Cybersecurity And Programming
 - 🌱 I like to learn. That's an art and a science.(Katherine Johnson)
 - 💞️ I’m looking to collaborate on Any type of security project
