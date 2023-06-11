@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+
 - 👋 Hi, I’m AmirHossein Ghanmi (C#4120n) 
 - 👀 I’m interested in AI, Cybersecurity And Programming
 - 🌱 I like to learn. That's an art and a science.(Katherine Johnson)
