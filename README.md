@@ -11,9 +11,8 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=charon1385&style=flat-square&color=blue" alt=""/>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=charon1385&style=flat-square&color=blue" alt=""/>
 
 - 👋 Hi, I’m AmirHossein Ghanmi (C#4120n) 
 - 👀 I’m interested in AI, Cybersecurity And Programming
