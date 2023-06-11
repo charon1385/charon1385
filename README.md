@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=charon1385&style=flat-square&color=blue" alt=""/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=charon1385&style=flat-square&color=blue" alt=""/></p>
 
 - 👋 Hi, I’m AmirHossein Ghanmi (C#4120n) 
 - 👀 I’m interested in AI, Cybersecurity And Programming
