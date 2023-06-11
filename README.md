@@ -22,6 +22,12 @@
 <div align="center">
   <img src="about.gif" width="600" height="300"/>
 </div>
+
+---
+
+### 👨‍💻: About Me :
+
+
 - 👋 Hi, I’m AmirHossein Ghanmi (C#4120n) 
 - 👀 I’m interested in AI, Cybersecurity And Programming
 - 🌱 I like to learn. That's an art and a science.(Katherine Johnson)
